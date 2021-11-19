@@ -57,7 +57,7 @@ Then, after logging in, you will be redirected to the coin page where you can se
 
 ### Here are the examples of using tokens and being verified
 ![6](https://user-images.githubusercontent.com/82859085/142574267-26d2e73b-72ae-4be0-bae0-7890d9bde9fa.PNG)
-![7](https://use!![8](https://user-images.githubusercontent.com/82859085/142574294-bc07b689-b361-4990-b1cd-c995fba4deed.PNG)
+![7](https://user-images.githubusercontent.com/82859085/142574545-f0519c63-453f-4e58-a81e-1863374e302f.PNG)
 ![8](https://user-images.githubusercontent.com/82859085/142574316-41362096-4a6c-4d72-8214-f05b27b3a1b8.PNG)
 
 ### And here is the usage of the database, 2 tables from the PostgreSQL
